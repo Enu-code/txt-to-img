@@ -60,16 +60,9 @@ No data is sent to any server.
 
 ---
 
-## Installation
-
-```bash
-# Clone the repo
-git clone <YOUR_REPO_URL>
-
-# Install dependencies
-cd text-to-image
-npm install
-
+## Credits
+Original project by berkinyilmaz  
+Modified and customized by Enu-code
 # Run locally
 npm run dev
 ```
